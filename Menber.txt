@@ -6,4 +6,12 @@ MEMBER 2 RICKY SUTOPO
 
 MEMBER 3 RAVINDU GIMANTHA SUTOPO
 
-MEMBER 4 ARPAN MITRA
+MEMBER 4 ARPAN MITRAMEMBER 4 ARPAN MITRA
+
+Ricky Sutopo
+
+i'm from Indonesia
+
+Programmer
+
+Electrical engineering
